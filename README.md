@@ -6,13 +6,13 @@ This is environment is specifically designed for pentesting
 🎨 Customization / Terminal
 ----
 
-Kitty – Modern, GPU-accelerated terminal emulator.
+Kitty – Modern, GPU-accelerated terminal emulator
 
-Zsh – Your shell of choice.
+Zsh – Your shell of choice
 
-Powerlevel10k – A fast, feature-rich Zsh theme.
+Powerlevel10k – A fast, feature-rich Zsh theme
 
-.p10k.zsh – Your Powerlevel10k config file.
+.p10k.zsh – Your Powerlevel10k config file
 
 .zshrc - My zsh config file
 
@@ -25,7 +25,7 @@ Sxhkd - Shortcut manager
 
 Picom - Transparency manager
 
-Rofi – Lightweight application launcher.
+Rofi – Lightweight application launcher
 
 VSCodium - Text editor
 
@@ -33,7 +33,9 @@ Polybar - Customizable top bar
 
 Custom Polybar scripts
 
-Batcat and LSD - Console tools for advanced commands.
+Batcat and LSD - Console tools for advanced commands
+
+Feh - Wallpaper manager
 
 📁 Dotfiles added
 ---
@@ -42,6 +44,6 @@ Batcat and LSD - Console tools for advanced commands.
 
 .p10k.zsh
 
-.fehbg (likely for managing wallpaper via feh)
+.fehbg 
 
-Your entire ~/.config folder or subfolders (e.g., Kitty, Neovim, etc.)
+~/.config folder and subfolders (e.g., Kitty, Polybar, etc.)
